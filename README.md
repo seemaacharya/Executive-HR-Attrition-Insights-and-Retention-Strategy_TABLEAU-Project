@@ -1,5 +1,7 @@
 # Executive-HR-Attrition-Insights-and-Retention-Strategy_TABLEAU-Project
 
+Tableau_PPT:  https://docs.google.com/presentation/d/12HJlot1T70oE-5FOI6i6lXfhmeORSL6s/edit?usp=sharing&ouid=105626524576028316745&rtpof=true&sd=true
+
 ## Overview
 
 Analyzed HR data of 1,470 employees to identify key drivers of attrition.
